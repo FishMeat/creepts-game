@@ -10,7 +10,7 @@
 // specific language governing permissions and limitations under the License.
 
 
-import "howler";
+import { Howl } from "howler";
 import { GameVars } from "./GameVars";
 import { GameManager } from "./GameManager";
 
